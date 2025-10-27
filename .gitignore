@@ -20,13 +20,3 @@ node_modules
 *.njsproj
 *.sln
 *.sw?
-public
-src
-index.html
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-.env
-eslint.config.js
-package.json
-vite.config.js
